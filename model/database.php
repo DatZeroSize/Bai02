@@ -5,7 +5,7 @@
         public $CONFIG_password = ""; //Defualt
         public $CONFIG_dbname = "bookshop";
 
-        public $conn; //Connector
+        public $conn; // Connector
         public $query = null;
 
         //Khởi tạo
